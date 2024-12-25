@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "name": "Alice",
+      "progress": {
+        "problems_solved": 45,
+        "rating": 1600,
+        "topics": {
+          "Arrays": 80,
+          "Graphs": 65,
+          "Dynamic Programming": 50
+        }
+      }
+    },
+    {
+      "name": "Bob",
+      "progress": {
+        "problems_solved": 30,
+        "rating": 1400,
+        "topics": {
+          "Arrays": 60,
+          "Graphs": 70,
+          "Dynamic Programming": 40
+        }
+      }
+    }
+  ]
+}

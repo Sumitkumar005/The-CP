@@ -1,0 +1,55 @@
+/* General Styles */
+body {
+    background-color: #ffffff; /* Clean white background */
+    font-family: 'Arial', sans-serif;
+}
+
+/* Navbar styles */
+.stSidebar {
+    background-color: #f0f0f0; /* Light grey for sidebar */
+    color: #333; /* Dark grey text for readability */
+}
+
+/* Header Styling */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Arial', sans-serif;
+    color: #444; /* Medium grey for headers */
+}
+
+/* Footer Styling */
+.stFooter {
+    background-color: #e8e8e8; /* Soft light grey for footer */
+    color: #333; /* Dark grey text */
+    padding: 20px;
+    text-align: center;
+}
+
+.stFooter a {
+    color: #007BFF; /* Professional blue for links */
+    text-decoration: none;
+}
+
+.stFooter a:hover {
+    text-decoration: underline;
+}
+
+/* Custom Button Styling */
+.stButton > button {
+    background-color: #007BFF; /* Modern blue for buttons */
+    color: white; /* White text for contrast */
+    border-radius: 5px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.stButton > button:hover {
+    background-color: #0056b3; /* Slightly darker blue for hover effect */
+}
+
+/* Specific for images */
+.stImage {
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for a polished look */
+}

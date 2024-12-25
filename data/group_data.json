@@ -1,0 +1,18 @@
+{
+    "group_name": "Infinity Loops - Competitive Programming Group",
+    "description": "A group dedicated to improving problem-solving and cognitive skills through competitive programming.",
+    "member_count": 200,
+    "join_link": "https://link-to-group", 
+    "contact_email": "contact@infinityloops.com",
+    "key_objectives": [
+        "Enhance problem-solving skills",
+        "Participate in weekly coding contests",
+        "Collaborate with peers and build a learning community"
+    ],
+    "resources": [
+        "LeetCode", 
+        "Codeforces", 
+        "CodeChef", 
+        "HackerRank"
+    ]
+}
